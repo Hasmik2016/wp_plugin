@@ -1,0 +1,6 @@
+== 2.2.0 ==
+1. Added customer sync
+
+== 2.1.0 ==
+1. Added password field for clients blocking setting interface
+2. Added changelog

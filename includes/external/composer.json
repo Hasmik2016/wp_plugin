@@ -1,0 +1,16 @@
+{
+  "name": "tactica/ws-wp",
+  "description": "plugin for wordpress to connect to soap api, and syncronize woocommerce with dkWebservice Inventory",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Tactica",
+      "email": "info@tactica.is"
+    }
+  ],
+  "require": {
+    "fergusean/nusoap": "0.9.5",
+    "wsdl2phpgenerator/wsdl2phpgenerator": "3.3.1"
+  }
+}

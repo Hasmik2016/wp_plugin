@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your dashboard-specific functionality should be
+ * included in this file.
+ */
+
+.custom-tr-border,#ws-wp-settings-api-table table
+{
+    margin-bottom: 10px;
+}
+.custom-tr-border tr,#ws-wp-settings-api-table tr
+{
+    border-bottom: 1px dotted lightgrey;
+}
